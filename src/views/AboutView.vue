@@ -21,22 +21,22 @@
             <h2 class=" ">More About Me: </h2>
             <h2>Purpose:</h2>
     <ul class="list-group">
-      <li class="list-group-item"><strong>Show What we Can Do:</strong> We want to demonstrate that we are good at using lots of
+      <li class="list-group-item">Show What we Can Do: We want to demonstrate that we are good at using lots of
         different tools and technologies to build websites. From the basic building blocks like HTML and
         CSS to more advanced stuff like JavaScript and databases, I've got it covered.</li>
-      <li class="list-group-item"><strong>Be Creative:</strong> Our team love coming up with new ideas and finding fun ways to make
+      <li class="list-group-item">Be Creative: Our team love coming up with new ideas and finding fun ways to make
         websites stand out. We want to show that we can think creatively and make websites that are
         unique and interesting.</li>
-      <li class="list-group-item"><strong>Share our Work:</strong>we have done a bunch of projects in the past, and I want to show
+      <li class="list-group-item">Share our Work:we have done a bunch of projects in the past, and I want to show
         them off! Whether it's a website for a small business or a bigger project for a company, we want
         to show the variety of stuff we have worked on.</li>
-      <li class="list-group-item"><strong>Make Good Websites:</strong> Quality is really important to me. we want to make sure
+      <li class="list-group-item">Make Good Websites: Quality is really important to me. we want to make sure
         that every website We build is well-made, easy to use, and looks good. We test everything
         thoroughly to make sure it works the way it should.</li>
-      <li class="list-group-item"><strong>Build Trust:</strong> We want potential clients to know that they can trust me to do a
+      <li class="list-group-item">Build Trust: We want potential clients to know that they can trust me to do a
         good job. We share feedback from past clients and examples of successful projects to show
         that we are reliable and can deliver results.</li>
-      <li class="list-group-item"><strong>Get More Business:</strong> Ultimately, We want this portfolio to help me find new
+      <li class="list-group-item">Get More Business: Ultimately, We want this portfolio to help me find new
         clients and projects to work on. By showing what We can do and proving that we are good at it, We
         hope to attract people who need help with their websites.</li>
     </ul>
@@ -45,14 +45,17 @@
               <div class="row mt-5">
                 <div class="col-lg-4 ">
                   <h3 id="heading">unity:</h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum incidunt laboriosam debitis dolorum quos perferendis dicta, explicabo modi itaque veritatis eligendi esse est atque tempore porro eveniet architecto numquam. Saepe!</p>
                  
                 </div>
                 <div class="col-lg-4">
                   <h3 id="heading">calla:</h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum incidunt laboriosam debitis dolorum quos perferendis dicta, explicabo modi itaque veritatis eligendi esse est atque tempore porro eveniet architecto numquam. Saepe!</p>
                  
                 </div>
                 <div class="col-lg-4">
                   <h3 id="heading">tash:</h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum incidunt laboriosam debitis dolorum quos perferendis dicta, explicabo modi itaque veritatis eligendi esse est atque tempore porro eveniet architecto numquam. Saepe!</p>
                 
                 </div>
               </div>
@@ -135,8 +138,9 @@ hr {
 }
 .list-group-item{
   height: 50px;
-  background-color: #D9D9D9;
+  background-color: transparent;
   font-family: 'Marcellus', sans-serif;
+
 }
 
 h3{
@@ -146,7 +150,10 @@ h3{
 
 .list-group{
   border-radius: 20px;
-  /* box-shadow: 0 0 20px rgb(69, 50, 215); Horizontal offset, vertical offset, blur radius, color */
+   box-shadow: 0 0 20px rgb(69, 50, 215); 
+   padding-bottom: 20px;
+   padding-top: 20px;
+ 
 }
 
 
